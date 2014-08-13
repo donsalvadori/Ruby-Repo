@@ -50,4 +50,11 @@ accounts.push(account2)
 puts accounts.sort
 
 
+puts "Is account 1 greater than account 2? #{account1 > account2}"
+
+account3 = BankAccount.new("Vince Salvi")
+
+account3.deposit(4000)
+
+puts "is account 1 between account 2 and 3? #{account1.between?(account2,account3)}"
 
