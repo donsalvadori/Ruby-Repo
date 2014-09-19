@@ -40,3 +40,5 @@ class MyTest < MiniTest::Unit::TestCase
 
 end
 
+#just some tests in rspec
+
