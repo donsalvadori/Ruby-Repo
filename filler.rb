@@ -3,3 +3,4 @@
 #matt west needs to share ruby tapas subscription
 #pay it forward, coders are sometimes the most selfless
 #too bad he lives in the UK or Id share a pint with him
+#alas we share our love for ruby
