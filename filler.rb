@@ -4,3 +4,4 @@
 #pay it forward, coders are sometimes the most selfless
 #too bad he lives in the UK or Id share a pint with him
 #alas we share our love for ruby
+#and he will help me stay motivated, virtuality be damned
