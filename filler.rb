@@ -11,3 +11,4 @@
 #looking forward to getting into meater part of book
 #hoping v3 is a significant advancement
 #finish reading the whole book before December
+# Ruby will be my life in 2015 and onward. Will be employable in the field
