@@ -6,3 +6,4 @@
 #alas we share our love for ruby
 #and he will help me stay motivated, virtuality be damned
 #Michael Hartel RoR book relased today 14th of october
+#read chapters 1 and 2
