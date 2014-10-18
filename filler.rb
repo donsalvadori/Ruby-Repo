@@ -14,3 +14,4 @@
 # Ruby will be my life in 2015 and onward. Will be employable in the field
 #ashamed I broke my streak
 #have a date tonight
+#github is a visionary product
