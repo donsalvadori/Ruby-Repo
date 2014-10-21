@@ -28,5 +28,5 @@
 
 
 
-#of the thin white duke
+
 #lovers eyes
