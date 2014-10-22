@@ -19,7 +19,6 @@
 #losing weight would be good too
 #thin white duke is awesome
 #throwing darts in lovers eyes
-#station to station is unbelievable
 
 
 
