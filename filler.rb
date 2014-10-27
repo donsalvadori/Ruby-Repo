@@ -10,7 +10,6 @@
 #finish reading the whole book before December
 # Ruby will be my life in 2015 and onward. Will be employable in the field
 
-#github is a visionary product
 #need to read more literature
 #losing weight would be good too
 
