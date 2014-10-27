@@ -6,7 +6,6 @@
 #alas we share our love for ruby
 #and he will help me stay motivated, virtuality be damned
 #Michael Hartel RoR book relased today 14th of october
-#nothing new to learn, but good refresher and well written
 #looking forward to getting into meater part of book
 #finish reading the whole book before December
 # Ruby will be my life in 2015 and onward. Will be employable in the field
