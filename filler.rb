@@ -11,8 +11,8 @@
 
 #need to read more literature
 #losing weight would be good too
-#1
-#2
+
+
 
 
 
